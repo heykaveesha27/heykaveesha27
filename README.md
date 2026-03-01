@@ -31,13 +31,13 @@
 🌐 HTML5, 🎨 CSS3, ⚡ JavaScript, ⚛️ React, 🟢 Node.js, 🌱 Spring Boot  
 
 **Mobile Development:**  
-💙 Dart, 🖌️ Flutter  
+🎯 Dart, 🖌️ Flutter  
 
 **QA & Testing:**  
 🔍 SonarQube, 🥒 Cucumber, 🧪 Selenium, ✅ JUnit, 📬 Postman  
 
 **DevOps & Tools:**  
-🌿 Git, 🐳 Docker, 🐧 Linux, 🔧 Terraform, 🤖 Jenkins  
+🌿 Git, 🐳 Docker, 🐧 Linux, 🔧 Terraform, 🤖 Jenkins  ,☁️aws
 
 **Hardware & Embedded Systems:**  
 🔌 Arduino, 🔴 Verilog/SystemVerilog
