@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Typewriter Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=7C3AED&width=500&lines=Passionate Learner!)
+![Typewriter Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=7C3AED&width=500&lines=Passionate+Learner!)
 
 
 [![GitHub Followers](https://img.shields.io/github/followers/keshankumara?label=Follow&style=social&color=7C3AED)](https://github.com/heykaveesha27)
